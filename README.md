@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Code-adnan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi there! I'm Adnan Waqas, a frontend developer passionate about crafting dynamic web experiences.
 
-<!---
-Code-adnan/Code-adnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+
+## Current Focus
+
+Exploring to enhance my skills.
+
+## Let's Connect
+
+📫 LinkedIn https://www.linkedin.com/in/adnan-waqas-985a842a1 | 
+
+Happy coding! 🚀✨
